@@ -11,5 +11,4 @@ continuous improvement.
 初步在ESP32-CAM开发板测试，看起来可行。
 后期会继续完善。
 
-![xm1](pic/serial_data.png)
 ![xm1](pic/serial_data2.jpg)
