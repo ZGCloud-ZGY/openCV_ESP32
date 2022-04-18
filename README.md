@@ -1,6 +1,13 @@
 # openCV_ESP32
- Arduino OpenCV library for ESP32
+ Arduino OpenCV library for ESP32<br>
  
+There are a lot of bugs.<br>
+DO NOT USED<br>
+DO NOT USED<br>
+DO NOT USED<br>
+
+
+
 Uesd OpenCV 4.5.5 Source Code , modified to be cross-compiled on the ESP32.<br>
 Includes precompile library.<br>
 Simple tested on ESP32-CAM.It looks works.<br>
