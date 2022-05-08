@@ -7,7 +7,7 @@ DO NOT USED<br>
 DO NOT USED<br>
 DO NOT USED<br>
 
-
+![xm1](pic/Problem.png)
 
 Uesd OpenCV 4.5.5 Source Code , modified to be cross-compiled on the ESP32.<br>
 Includes precompile library.<br>
